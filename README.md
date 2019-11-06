@@ -112,8 +112,11 @@ The prophet model fit for the dataset is not as good as the other two zip codes,
 ![Alt Text](https://github.com/pmb06d/forecasting_home_values/blob/master/graphs/Fig15.jpg)
 
 The forecast for Crockett, however, has much less uncertainty than the next two on the top 10 list:
-  * Sacramento ![Alt Text](https://github.com/pmb06d/forecasting_home_values/blob/master/graphs/Fig16.jpg)
-  * Denver ![Alt Text](https://github.com/pmb06d/forecasting_home_values/blob/master/graphs/Fig17.jpg)
+  * Sacramento
+  ![Alt Text](https://github.com/pmb06d/forecasting_home_values/blob/master/graphs/Fig16.jpg)
+  
+  * Denver
+  ![Alt Text](https://github.com/pmb06d/forecasting_home_values/blob/master/graphs/Fig17.jpg)
 
 # Discussion and Assignment Questions
 * The three recommended zip codes for investment are:
