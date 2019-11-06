@@ -25,4 +25,6 @@ The original dataset was transformed using Pandas’s melt function to put into 
 ### The relationship between annual payroll, total employees, and median HH price
 There is a small correlation between the variables, especially annual payroll, and the median house price:
 
+<p align="center">
 ![Alt Text](https://github.com/pmb06d/forecasting_home_values/blob/master/graphs/Fig1.jpg)
+ </p>
