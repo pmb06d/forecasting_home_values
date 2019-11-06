@@ -26,5 +26,5 @@ The original dataset was transformed using Pandas’s melt function to put into 
 There is a small correlation between the variables, especially annual payroll, and the median house price:
 
 <p align="center">
- <![Alt Text](https://github.com/pmb06d/forecasting_home_values/blob/master/graphs/Fig1.jpg)>
+ ![Alt Text](https://github.com/pmb06d/forecasting_home_values/blob/master/graphs/Fig1.jpg)
  </p>
